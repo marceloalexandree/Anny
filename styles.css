@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     font-family: "PT Sans", sans-serif;
-    background-color: powderblue;
+    background-color: rgb(114, 172, 207)
 }
 
 #voltar img{
@@ -60,7 +60,7 @@ button img{
 .frente {
     z-index: 1;
     backface-visibility: hidden;
-    border-left: 3px solid powderblue;
+    border-left: 3px solid rgb(114, 172, 207);
 }
 
 .verso {
